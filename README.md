@@ -125,7 +125,7 @@ The NetworkPolicy blocked an unlabelled pod and admitted a `role=client` pod in 
 Needs Docker, `kubectl`, [`kind`](https://kind.sigs.k8s.io/docs/user/quick-start/#installation) and Python 3.10+.
 
 ```bash
-git clone https://github.com/Sup3rMar10/k8s-rollout-lab.git
+git clone https://github.com/Supp3r-Man/k8s-rollout-lab.git
 cd k8s-rollout-lab
 pip install -r requirements.txt
 
